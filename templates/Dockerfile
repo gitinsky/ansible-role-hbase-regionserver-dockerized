@@ -1,4 +1,4 @@
-FROM gitinsky/hbase:0.1.0
+FROM gitinsky/hbase:0.1.1
 MAINTAINER Git In Sky <support@gitinsky.com>
 
 RUN mkdir /etc/service/hbase-regionserver
